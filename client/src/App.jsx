@@ -3,7 +3,11 @@ function App() {
 
   return (
     <>
-      <h1>Hello Kalles Clone</h1>
+      <div className="min-h-screen flex items-center justify-center">
+        <h1 className="text-4xl font-bold text-blue-600">
+          Kalles Clone
+        </h1>
+      </div>
     </>
   )
 }
