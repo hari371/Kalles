@@ -1,15 +1,20 @@
+import { BrowserRouter, Routes, Route } from "react-router-dom"
+import Home from "./pages/home/Home";
+import Shop from "./pages/Shop/Shop";
+import Blog from "./pages/Blogs/Blogs";
+import ProductDetails from "./pages/ProductDetails/ProductDetails";
 
 function App() {
-
   return (
-    <>
-      <div className="min-h-screen flex items-center justify-center">
-        <h1 className="text-4xl font-bold text-blue-600">
-          Kalles Clone
-        </h1>
-      </div>
-    </>
-  )
+    <BrowserRouter>
+      <Routes>
+        <Route path="/" element={<Home />} />
+        <Route path="/shop" element={<Shop />} />
+        <Route path="/blog" element={<Blog />} />
+        <Route path="/product/:id" element={<ProductDetails />} />
+      </Routes>
+    </BrowserRouter>
+  );
 }
 
-export default App
+export default App;
