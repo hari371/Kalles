@@ -5,6 +5,7 @@ import { useState } from "react";
 import { currencies } from "../../constants/currencies";
 import { IoChevronDown } from "react-icons/io5";
 import { languages } from "../../constants/languages";
+import { Link } from "react-router-dom";
  
 function TopBar() {
     const [isCurrencyOpen, setIsCurrencyOpen] = useState(false);
@@ -17,27 +18,27 @@ function TopBar() {
                 <div className="flex gap-4">
                     <div className="flex gap-1 items-center">
                         <FiPhone className="text-lg"/>
-                        <span className="text-sm">+91 1234567890</span>
+                        <span className="text-sm cursor-pointer">+91 1234567890</span>
                     </div>
                     <div className="flex gap-1 items-center">
                         <HiOutlineMail className="text-lg"/>
-                        <span className="text-sm">KallesClone@learning.com</span>
+                        <span className="text-sm cursor-pointer">KallesClone@learning.com</span>
                     </div>
                 </div>
                     
                 <div>
-                    <p className="text-sm">
+                    <Link to="/shop" className="text-sm cursor-pointer">
                         Summer sale discount off <span className="text-pink-500">50%</span>! Shop Now
-                    </p>
+                    </Link>
                 </div>
 
                 <div className="flex gap-4">
-                    <button className="flex gap-1 items-center text-black hover:text-blue-500 transition-colors ease-in-out duration-500">
+                    <button className="flex gap-1 items-center text-black hover:text-blue-500 transition-colors ease-in-out duration-500 cursor-pointer">
                         <CiLocationOn/>
                         Location
                     </button>
                     <div className="relative">
-                        <button className="flex gap-2 items-center hover:text-blue-500 transition-colors ease-in-out duration-500"
+                        <button className="flex gap-2 items-center hover:text-blue-500 transition-colors ease-in-out duration-500 cursor-pointer"
                             onClick={() =>
                             setIsCurrencyOpen(!isCurrencyOpen)
                             }
@@ -75,7 +76,7 @@ function TopBar() {
                         </div>
                     </div>
                     <div className="relative">
-                        <button className="flex gap-2 items-center hover:text-blue-500 transition-colors ease-in-out duration-500"
+                        <button className="flex gap-2 items-center hover:text-blue-500 transition-colors ease-in-out duration-500 cursor-pointer"
                             onClick={() =>
                             setIsLanguageOpen(!isLanguageOpen)
                             }

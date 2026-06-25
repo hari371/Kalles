@@ -1,5 +1,9 @@
 import { NavLink, Link } from "react-router-dom";
 import { navLinks } from "../../constants/navigation";
+import { IoMdSearch } from "react-icons/io";
+import { VscAccount } from "react-icons/vsc";
+import { FaRegHeart } from "react-icons/fa";
+import { IoCartOutline } from "react-icons/io5";
 
 function Navbar() {
   return (
@@ -14,7 +18,7 @@ function Navbar() {
               <li key={link.path}>
                 <NavLink to={link.path}
                   className={({ isActive }) =>
-                  isActive ? "text-blue-500 transition-colors ease-in-out duration-500" : "text-black hover:text-blue-300 transition-colors ease-in-out duration-500"
+                  isActive ? "text-blue-500 cursor-pointer transition-colors ease-in-out duration-500" : "text-black cursor-pointer hover:text-blue-300 transition-colors ease-in-out duration-500"
                 }>
                   {link.name}
                 </NavLink>
@@ -22,11 +26,19 @@ function Navbar() {
             ))}
           </ul>
 
-          <div className="flex gap-4">
-            <button>Search</button>
-            <button>Account</button>
-            <button>Wishlist</button>
-            <button>Cart</button>
+          <div className="flex text-2xl items-center gap-4">
+            <button>
+              <IoMdSearch/>
+            </button>
+            <button>
+              <VscAccount/>
+            </button>
+            <button>
+              <FaRegHeart/>
+            </button>
+            <button>
+              <IoCartOutline/>
+            </button>
           </div>
       </div>
     </nav>
