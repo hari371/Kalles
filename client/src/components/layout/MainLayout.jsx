@@ -5,7 +5,9 @@ import TopBar from "./TopBar";
 function MainLayout() {
   return (
     <>
-      <TopBar/>
+      <div className="xl:block hidden">
+        <TopBar/>
+      </div>
       <Navbar />
       <main>
         <Outlet />
