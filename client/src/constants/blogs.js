@@ -6,9 +6,6 @@ import blog5 from "../assets/home/blogs/blog-5.webp";
 import blog6 from "../assets/home/blogs/blog-6.webp";
 import blog7 from "../assets/home/blogs/blog-7.webp";
 
-const blogDescription =
-  "Typography is the work of typesetters, compositors, typographers, graphic designers, art directors, manga artists, comic book artists, graffiti artists, and anyone who arranges words, letters, numbers, and symbols for publication, display, or distribution.";
-
 export const blogs = [
     {
         id: 1,
@@ -60,5 +57,3 @@ export const blogs = [
         date: "May 10",
     },
 ];
-
-export default blogDescription

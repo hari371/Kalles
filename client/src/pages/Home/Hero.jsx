@@ -12,7 +12,7 @@ function Hero() {
     <Swiper className="mb-24" slidesPerView={1} loop={true} modules={[Pagination, Autoplay]} 
       pagination={{ clickable: true }}
       autoplay={{
-        delay: 100000,
+        delay: 4000,
         disableOnInteraction: false,
       }}
     >
