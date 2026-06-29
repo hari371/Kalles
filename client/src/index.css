@@ -10,3 +10,15 @@
     margin-top: 6rem;
     margin-bottom: 6rem;
 }
+
+.image-hover-zoom {
+    overflow: hidden;
+}
+
+.image-hover-zoom img {
+    transition: transform .5s ease-in-out;
+}
+
+.image-hover-zoom:hover img {
+    transform: scale(1.1);
+}

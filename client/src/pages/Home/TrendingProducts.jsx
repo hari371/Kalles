@@ -2,16 +2,16 @@ import { FaRegHeart } from "react-icons/fa";
 import { MdOutlineRemoveRedEye } from "react-icons/md";
 import { IoCartOutline } from "react-icons/io5";
 
-function FeaturedProducts() {
+function TrendingProducts() {
     return (
         <section className="section-margin">
             <div className="flex flex-col gap-0 items-center justify-center">
                 <div className="flex gap-8 items-center justify-center">
                     <div className="border border-black w-20"></div>
-                    <h3 className="text-3xl text-black font-bold uppercase">BEST SELLER</h3>               
+                    <h3 className="text-3xl text-black font-bold uppercase">trending</h3>               
                     <div className="border border-black w-20"></div>
                 </div>
-                <span className="text-gray-400 text-sm">Top sale in this week</span>
+                <span className="text-gray-400 text-sm">Top view in this week</span>
             </div>
             <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 w-[90%] md:w-[85%] xl:w-[75%] gap-6 md:gap-8 mx-auto mt-10">
                 <div className="flex flex-col gap-2">
@@ -403,4 +403,4 @@ function FeaturedProducts() {
     )
 }
 
-export default FeaturedProducts
+export default TrendingProducts
