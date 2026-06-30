@@ -1,0 +1,359 @@
+{
+  "collections": [
+    {
+      "id": 476307030316,
+      "title": "Accessories",
+      "handle": "accessories",
+      "description": "\u003cp\u003e\u003cmeta charset=\"utf-8\"\u003e\u003cmeta charset=\"utf-8\"\u003eShop through our latest selection of premium \u003cstrong data-start=\"157\" data-end=\"166\"\u003eDenim\u003c\/strong\u003e pieces, carefully curated to bring you a versatile mix of styles, fits, and washes that cater to every taste and occasion. Whether you are looking for timeless classic jeans, trendy distressed designs, or stylish denim jackets, our collection offers something for everyone.\u003c\/p\u003e\n\u003cp\u003eEach piece is crafted with attention to detail, combining comfort, durability, and lasting quality to ensure you look and feel your best. Explore a variety of cuts from slim and straight to relaxed and oversized that allow you to express your personal style effortlessly.\u003c\/p\u003e\n\u003cp\u003ePerfect for casual outings, workdays, or special occasions, our denim collection is designed to elevate your wardrobe and provide endless mix-and-match possibilities. Discover the ultimate combination of fashion and function with our thoughtfully selected denim pieces, made to keep you stylish season after season.\u003cbr\u003e\u003c\/p\u003e",
+      "published_at": "2024-06-03T06:22:52-04:00",
+      "updated_at": "2026-01-07T07:20:21-05:00",
+      "image": null,
+      "products_count": 8
+    },
+    {
+      "id": 495564816684,
+      "title": "All",
+      "handle": "all",
+      "description": "",
+      "published_at": "2025-08-11T23:34:09-04:00",
+      "updated_at": "2026-06-24T07:22:20-04:00",
+      "image": null,
+      "products_count": 1044
+    },
+    {
+      "id": 497033904428,
+      "title": "Armchairs",
+      "handle": "armchairs",
+      "description": "",
+      "published_at": "2025-09-29T03:50:56-04:00",
+      "updated_at": "2025-10-31T07:21:32-04:00",
+      "image": {
+        "id": 1752936317228,
+        "created_at": "2025-09-29T03:50:55-04:00",
+        "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0880\/8864\/1836\/collections\/f2.webp?v=1759132255",
+        "alt": null
+      },
+      "products_count": 3
+    },
+    {
+      "id": 476296773932,
+      "title": "Automated Collection",
+      "handle": "automated-collection",
+      "description": null,
+      "published_at": "2024-06-03T00:06:26-04:00",
+      "updated_at": "2026-06-03T23:51:03-04:00",
+      "image": null,
+      "products_count": 116
+    },
+    {
+      "id": 476630417708,
+      "title": "Bags",
+      "handle": "bags",
+      "description": "Our Bag Collection is thoughtfully curated to bring together style, functionality, and quality in every design. Whether you're looking for a sleek crossbody, a spacious tote, a trendy backpack, or an elegant clutch, this collection offers something for every occasion and lifestyle. Each bag is made from high-quality materials, combining timeless craftsmanship with modern aesthetics to ensure durability and a lasting impression.\n\nPerfect for work, travel, or everyday use, our bags are designed with practical compartments, adjustable straps, and premium finishes that elevate your look without compromising comfort. With a variety of colors, textures, and sizes to choose from, you can find the perfect match for your personal style.\n\nIdeal for fashion-forward individuals and minimalists alike, our collection reflects a balance between trend and utility. Whether you're dressing up for a special event or running errands around town, there's a bag here to complete your outfit and simplify your day.\n\nBrowse our Bag Collection now to discover new arrivals, bestsellers, and exclusive designs—crafted to carry your essentials in style. All items are available for fast shipping and easy returns, ensuring a smooth and satisfying shopping experience.",
+      "published_at": "2024-06-09T23:49:32-04:00",
+      "updated_at": "2026-01-29T01:34:10-05:00",
+      "image": null,
+      "products_count": 11
+    },
+    {
+      "id": 497071849772,
+      "title": "Bedroom Collection",
+      "handle": "bedroom-collection",
+      "description": "",
+      "published_at": "2025-09-30T02:39:49-04:00",
+      "updated_at": "2025-10-13T02:28:19-04:00",
+      "image": {
+        "id": 1752967708972,
+        "created_at": "2025-09-30T02:39:48-04:00",
+        "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0880\/8864\/1836\/collections\/slide-bedroom-1.png?v=1759214388",
+        "alt": null
+      },
+      "products_count": 12
+    },
+    {
+      "id": 495160983852,
+      "title": "Best Seller",
+      "handle": "best-seller",
+      "description": "",
+      "published_at": "2025-07-29T22:32:14-04:00",
+      "updated_at": "2025-11-17T07:23:01-05:00",
+      "image": null,
+      "products_count": 8
+    },
+    {
+      "id": 496640393516,
+      "title": "Body beauty",
+      "handle": "body-beauty",
+      "description": "",
+      "published_at": "2025-09-15T05:04:08-04:00",
+      "updated_at": "2025-09-22T21:34:24-04:00",
+      "image": {
+        "id": 1752551981356,
+        "created_at": "2025-09-16T05:31:40-04:00",
+        "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0880\/8864\/1836\/collections\/Group_482218.jpg?v=1758591264",
+        "alt": null
+      },
+      "products_count": 10
+    },
+    {
+      "id": 495998239020,
+      "title": "Body care",
+      "handle": "body-care",
+      "description": "",
+      "published_at": "2025-08-24T20:35:16-04:00",
+      "updated_at": "2026-06-04T06:42:51-04:00",
+      "image": {
+        "id": 1751871127852,
+        "created_at": "2025-08-24T20:37:56-04:00",
+        "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0880\/8864\/1836\/collections\/Skin-Fit-Glow-Cushion-2.jpg?v=1756082276",
+        "alt": null
+      },
+      "products_count": 199
+    },
+    {
+      "id": 495205515564,
+      "title": "Bottom",
+      "handle": "bottom",
+      "description": "",
+      "published_at": "2025-07-31T04:24:39-04:00",
+      "updated_at": "2025-07-31T04:24:53-04:00",
+      "image": null,
+      "products_count": 6
+    },
+    {
+      "id": 495161147692,
+      "title": "Bottoms",
+      "handle": "bottoms",
+      "description": "",
+      "published_at": "2025-07-29T22:38:56-04:00",
+      "updated_at": "2026-01-23T07:19:35-05:00",
+      "image": null,
+      "products_count": 8
+    },
+    {
+      "id": 496988520748,
+      "title": "Bowls",
+      "handle": "bowls",
+      "description": "",
+      "published_at": "2025-09-26T22:36:18-04:00",
+      "updated_at": "2025-09-26T22:38:53-04:00",
+      "image": null,
+      "products_count": 10
+    },
+    {
+      "id": 497069490476,
+      "title": "Bracelets",
+      "handle": "bracelets",
+      "description": "",
+      "published_at": "2025-09-30T00:17:47-04:00",
+      "updated_at": "2025-09-30T00:17:47-04:00",
+      "image": {
+        "id": 1752964530476,
+        "created_at": "2025-09-30T00:17:45-04:00",
+        "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0880\/8864\/1836\/collections\/j1.webp?v=1759205865",
+        "alt": null
+      },
+      "products_count": 4
+    },
+    {
+      "id": 496937959724,
+      "title": "Burgers",
+      "handle": "burgers",
+      "description": "",
+      "published_at": "2025-09-24T22:02:01-04:00",
+      "updated_at": "2025-09-24T22:04:36-04:00",
+      "image": {
+        "id": 1752813404460,
+        "created_at": "2025-09-24T22:02:00-04:00",
+        "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0880\/8864\/1836\/collections\/pizza2.webp?v=1758765721",
+        "alt": null
+      },
+      "products_count": 10
+    },
+    {
+      "id": 497123819820,
+      "title": "Candy",
+      "handle": "candy",
+      "description": "",
+      "published_at": "2025-10-01T21:04:13-04:00",
+      "updated_at": "2025-10-01T21:04:14-04:00",
+      "image": null,
+      "products_count": 0
+    },
+    {
+      "id": 497124639020,
+      "title": "Canvas",
+      "handle": "canvas",
+      "description": "",
+      "published_at": "2025-10-01T21:49:33-04:00",
+      "updated_at": "2025-12-02T21:54:34-05:00",
+      "image": {
+        "id": 1753565888812,
+        "created_at": "2025-10-20T05:20:07-04:00",
+        "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0880\/8864\/1836\/collections\/5_9eca249a-5bfe-498e-b622-48f2598694dd.jpg?v=1760952007",
+        "alt": null
+      },
+      "products_count": 13
+    },
+    {
+      "id": 476974252332,
+      "title": "Cap \u0026 Hat",
+      "handle": "hat",
+      "description": "",
+      "published_at": "2024-06-17T05:52:29-04:00",
+      "updated_at": "2025-11-17T07:23:01-05:00",
+      "image": null,
+      "products_count": 10
+    },
+    {
+      "id": 493891649836,
+      "title": "Car Seat",
+      "handle": "car-seat",
+      "description": "\u003cp\u003e\u003cmeta charset=\"utf-8\"\u003e\u003cmeta charset=\"utf-8\"\u003e\u003cspan\u003e\u003c\/span\u003e\u003cspan\u003e\u003c\/span\u003e\u003cspan\u003eFigma ipsum component variant\u003c\/span\u003e\u003c\/p\u003e",
+      "published_at": "2025-06-26T06:13:38-04:00",
+      "updated_at": "2025-06-26T06:13:38-04:00",
+      "image": {
+        "id": 1749746319660,
+        "created_at": "2025-06-26T06:13:37-04:00",
+        "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0880\/8864\/1836\/collections\/Rectangle_118_1a3b6931-c853-4553-8209-0a3223cddf33.jpg?v=1750932818",
+        "alt": null
+      },
+      "products_count": 0
+    },
+    {
+      "id": 497028792620,
+      "title": "Cats",
+      "handle": "cats",
+      "description": "",
+      "published_at": "2025-09-28T23:23:05-04:00",
+      "updated_at": "2025-09-30T05:11:33-04:00",
+      "image": {
+        "id": 1752931238188,
+        "created_at": "2025-09-28T23:23:04-04:00",
+        "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0880\/8864\/1836\/collections\/pet-banner-2.webp?v=1759116185",
+        "alt": null
+      },
+      "products_count": 2
+    },
+    {
+      "id": 492215599404,
+      "title": "Coats \u0026 Jackets",
+      "handle": "coats-jackets",
+      "description": "",
+      "published_at": "2025-05-13T03:08:27-04:00",
+      "updated_at": "2025-05-21T04:25:41-04:00",
+      "image": null,
+      "products_count": 11
+    },
+    {
+      "id": 496970531116,
+      "title": "Customes",
+      "handle": "customes",
+      "description": "",
+      "published_at": "2025-09-26T05:50:36-04:00",
+      "updated_at": "2025-09-26T23:41:18-04:00",
+      "image": null,
+      "products_count": 15
+    },
+    {
+      "id": 497123983660,
+      "title": "Decoration",
+      "handle": "decoration",
+      "description": "",
+      "published_at": "2025-10-01T21:06:32-04:00",
+      "updated_at": "2026-01-06T02:14:14-05:00",
+      "image": null,
+      "products_count": 8
+    },
+    {
+      "id": 495030763820,
+      "title": "Denim",
+      "handle": "denim",
+      "description": "",
+      "published_at": "2025-07-25T05:51:18-04:00",
+      "updated_at": "2025-11-17T07:23:01-05:00",
+      "image": null,
+      "products_count": 8
+    },
+    {
+      "id": 497028759852,
+      "title": "Dogs",
+      "handle": "dogs",
+      "description": "",
+      "published_at": "2025-09-28T23:22:13-04:00",
+      "updated_at": "2025-09-28T23:22:13-04:00",
+      "image": {
+        "id": 1752931205420,
+        "created_at": "2025-09-28T23:22:12-04:00",
+        "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0880\/8864\/1836\/collections\/pet-banner.webp?v=1759116132",
+        "alt": null
+      },
+      "products_count": 3
+    },
+    {
+      "id": 495205581100,
+      "title": "Dress",
+      "handle": "dress",
+      "description": "",
+      "published_at": "2025-07-31T04:25:39-04:00",
+      "updated_at": "2025-07-31T04:25:39-04:00",
+      "image": null,
+      "products_count": 7
+    },
+    {
+      "id": 495895609644,
+      "title": "Dress",
+      "handle": "dress-1",
+      "description": "",
+      "published_at": "2025-08-21T21:05:23-04:00",
+      "updated_at": "2026-06-04T06:41:03-04:00",
+      "image": null,
+      "products_count": 64
+    },
+    {
+      "id": 496571253036,
+      "title": "ERGONOMIC",
+      "handle": "ergonomic",
+      "description": "",
+      "published_at": "2025-09-12T03:38:37-04:00",
+      "updated_at": "2025-09-12T03:41:28-04:00",
+      "image": null,
+      "products_count": 11
+    },
+    {
+      "id": 496589144364,
+      "title": "ERGONOMIC HOT",
+      "handle": "ergonomic-hot",
+      "description": "",
+      "published_at": "2025-09-12T22:51:34-04:00",
+      "updated_at": "2025-09-12T23:03:05-04:00",
+      "image": null,
+      "products_count": 8
+    },
+    {
+      "id": 492587352364,
+      "title": "Fashion",
+      "handle": "fashion-1",
+      "description": "",
+      "published_at": "2025-05-22T03:04:41-04:00",
+      "updated_at": "2025-11-27T07:27:32-05:00",
+      "image": {
+        "id": 1748359676204,
+        "created_at": "2025-05-22T03:04:40-04:00",
+        "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0880\/8864\/1836\/collections\/59171710_060_a.jpg?v=1747897480",
+        "alt": null
+      },
+      "products_count": 5
+    },
+    {
+      "id": 476627468588,
+      "title": "Fashion 2",
+      "handle": "fashion",
+      "description": "",
+      "published_at": "2024-06-09T22:27:19-04:00",
+      "updated_at": "2026-03-05T07:25:27-05:00",
+      "image": null,
+      "products_count": 20
+    }
+  ]
+}

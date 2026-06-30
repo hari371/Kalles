@@ -4,6 +4,8 @@ import TrendingProducts from "./TrendingProducts";
 import PromotionalBanner from "./PromotionalBanner";
 import FeaturedProducts from "./FeaturedProducts";
 import BlogSection from "./BlogSection";
+import Instagram from "./Instagram";
+import Services from "./Services";
 
 function Home() {
   return (
@@ -14,6 +16,8 @@ function Home() {
       <PromotionalBanner/>
       <FeaturedProducts/>
       <BlogSection/>
+      <Instagram/>
+      <Services/>
     </>
   );
 }

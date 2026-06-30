@@ -16,12 +16,23 @@ function BlogSection() {
                 <span className="text-gray-400 text-sm">The freshest and most exciting news</span>
             </div>
             <Swiper className="mb-24 w-[90%] md:w-[85%] xl:w-[80%] mt-10" 
-                slidesPerView={3} loop={true} modules={[Autoplay]} 
+                loop={true} modules={[Autoplay]} 
                 pagination={{ clickable: true }}
                 spaceBetween={30}
                 autoplay={{
                     delay: 100000,
                     disableOnInteraction: false,
+                }}
+                breakpoints={{
+                    0: {
+                        slidesPerView: 1,
+                    },
+                    768: {
+                        slidesPerView: 2,
+                    },
+                    1024: {
+                        slidesPerView: 3,
+                    },
                 }}
                 >
                 
